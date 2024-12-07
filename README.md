@@ -1,4 +1,4 @@
-# Health-Data-Analyzer
+# Rajeevnegi567/Symptom-Based-Disease-Diagnosis-App
 Symptom-Based Disease Diagnosis App - README
 🩺 Project Overview
 The Symptom-Based Disease Diagnosis App is a web-based application designed to predict diseases based on user-input symptoms. Built with Flask, it leverages a pre-trained Support Vector Classifier (SVC) model to deliver accurate predictions. The app features user-friendly pages for disease prediction, developer info, contact, and blogs.
